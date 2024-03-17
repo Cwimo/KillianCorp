@@ -1,0 +1,40 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_ProduitsCommandés&Sequence_1",
+        "reelTTC&Sequence_1",
+        "index&Sequence_1",
+        "prenomConducteur&Sequence_1",
+        "numCamion&Sequence_1",
+        "nbColis&Sequence_1",
+        "nbPalettes&Sequence_1",
+        "année&Sequence_1",
+        "nomConducteur&Sequence_1",
+        "matricule&Sequence_1",
+        "listeProduitsVide&Sequence_1",
+        "dt_commande&Sequence_1",
+        "excelPath&Sequence_1",
+        "prixUnitTTC&Sequence_1",
+        "in_Chemin&Sequence_1",
+        "in_conducteurDispensé&Sequence_1",
+        "in_destinataire&Sequence_1",
+        "bonDestinataire&Sequence_1",
+        "commentairesValidés&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

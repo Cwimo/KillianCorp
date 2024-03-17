@@ -1,0 +1,21 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "In_FolderPath",
+      "DisplayName": "In_FolderPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "C:\\Users\\ThéophileFabrègues\\OneDrive - Kaora Partners\\Documents\\TEST\\TEST BIS\\TEST TRIS",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}

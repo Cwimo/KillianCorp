@@ -1,0 +1,91 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "truckNumber&Sequence_4",
+        "packagesAmount&Sequence_4",
+        "paletsAmount&Sequence_4",
+        "year&Sequence_4",
+        "lastName&Sequence_4",
+        "firstName&Sequence_4",
+        "id&Sequence_4",
+        "inventoryDT&Sequence_4",
+        "totalTTC&Sequence_4",
+        "status&Sequence_4",
+        "commentary&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_FolderPath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "workflows/CheckStatus.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "emptyCellCheck&Sequence_6",
+        "SumPricesTTC&Sequence_6"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_TruckNumber",
+        "In_PackagesAmount",
+        "In_PaletsAmount",
+        "In_Year",
+        "In_LastName",
+        "In_FirstName",
+        "In_Id",
+        "In_InventoryDT",
+        "In_TotalTTC",
+        "Out_Status",
+        "Out_Commentary"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "workflows/RetrieveDatas.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [
+        "In_FilePath",
+        "Out_TruckNumber",
+        "Out_PackagesAmount",
+        "Out_PaletsAmount",
+        "Out_Year",
+        "Out_LastName",
+        "Out_FirstName",
+        "Out_Id",
+        "Out_InventoryDT",
+        "Out_TotalTTC"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "workflows/MoveFile.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "pathExists&Sequence_11"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "In_Status",
+        "In_Commentary",
+        "In_FilePath",
+        "In_FolderPath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
